@@ -7,12 +7,12 @@ html {
 
 }
 body {
-    font: 
-    line-height:
-    color:
-    background:
-    margin:
-    padding: 
+    font-family: 'Muli'; 
+    src: url(https://fonts.googleapis.com/css?family=Raleway);
+    line-height: 1.5
+    background: #EBF4FA;
+    margin: 0;
+    padding: 5;
 }
 h1 {
     font-family: 'Raleway'; 
