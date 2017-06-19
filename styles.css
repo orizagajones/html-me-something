@@ -1,5 +1,8 @@
 html {
-    margin: 0;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 75px;
+    margin-left: 75px;
     padding: 5;
 
 }
@@ -12,23 +15,43 @@ body {
     padding: 
 }
 h1 {
-    font-family: Raleway;
+    font-family: 'Raleway'; 
+    src: url(https://fonts.googleapis.com/css?family=Raleway);
     font-size: 24px;
     font-style: normal;
     color: #000080;
     line-height: 20px;
 }
 h3 {
-    font-family: Raleway;
+    font-family: 'Raleway'; 
+    src: url(https://fonts.googleapis.com/css?family=Raleway);
     font-size: 18px;
     font-style: normal;
     color: #70ad43;
     line-height: 1.5;
 }
 p {
-    font-family: Muli;
+    font-family: 'Muli'; 
+    src: url(https://fonts.googleapis.com/css?family=Raleway);
     font-size: 12px;
     font-color: #708090;
     margin-top: 0;
     text-align: left;
 }
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #70ad43;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #0066cc;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: #007BB8;
+	}
+abbr {
+	border-bottom: none;
+	}
