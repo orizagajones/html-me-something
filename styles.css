@@ -9,7 +9,7 @@ html {
 <<<<<<< HEAD
 
 h1.intro {
-    font-family: 'Raleway'; src: url(https://fonts.googleapis.com/css?family=Raleway);
+    font-family: 'Raleway', sans-serif;
     font-size: 30px;
     font-style: bold;
     color: #C70039;
@@ -17,7 +17,7 @@ h1.intro {
 
 =======
 body {
-    font-family: 'Muli'; 
+    font-family: 'Open Sans', sans-serif; 
     src: url(https://fonts.googleapis.com/css?family=Raleway);
     line-height: 1.5
     background: #EBF4FA;
@@ -26,7 +26,7 @@ body {
 >>>>>>> 0cb6ee7e208ce3e0f0420134721a3009fd667e4d
 }
 p.intro {
-    font-family: 'Muli'; src: url(https://fonts.googleapis.com/css?family=Raleway);
+    font-family: 'Open Sans', sans-serif;
     font-size: 12px;
     color: #1B4F72;
     font-style: bold;
@@ -36,21 +36,21 @@ p.intro {
 
 
 h1 {
-    font-family: 'Raleway'; src: url(https://fonts.googleapis.com/css?family=Raleway);
+    font-family: 'Raleway', sans-serif; 
     font-size: 24px;
     font-style: normal;
     color: #900c3f;
     line-height: 20px;
 }
 h3 {
-    font-family: 'Raleway'; src: url(https://fonts.googleapis.com/css?family=Raleway);
+    font-family: 'Raleway', sans-serif; 
     font-size: 18px;
     font-style: normal;
     color: #ff5733;
     line-height: 1.5;
 }
 p {
-    font-family: 'Muli'; src: url(https://fonts.googleapis.com/css?family=Raleway);
+    font-family: 'Open Sans', sans-serif;
     font-size: 12px;
     color: #1B4F72;
     margin-top: 0;
