@@ -6,7 +6,6 @@ html {
     padding: 5;
 
 }
-<<<<<<< HEAD
 
 h1.intro {
     font-family: 'Raleway', sans-serif;
@@ -15,7 +14,6 @@ h1.intro {
     color: #C70039;
     line-height: 20px;
 
-=======
 body {
     font-family: 'Open Sans', sans-serif; 
     src: url(https://fonts.googleapis.com/css?family=Raleway);
@@ -23,7 +21,6 @@ body {
     background: #EBF4FA;
     margin: 0;
     padding: 5;
->>>>>>> 0cb6ee7e208ce3e0f0420134721a3009fd667e4d
 }
 p.intro {
     font-family: 'Open Sans', sans-serif;
